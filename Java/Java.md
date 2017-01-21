@@ -13,8 +13,6 @@
   **Return value**: specifies the data type that a method will return after it runs
   
   **Inheritance**: allows one class to use functionality defined in another class
-
-
-**Inheritance**: One of the object-oriented programming concepts that allows us to reuse and maintain code more efficiently is called inheritance. It is used to share or inherit behavior from another class.
+also One of the object-oriented programming concepts that allows us to reuse and maintain code more efficiently.
 
 #####source: Codeacademy
